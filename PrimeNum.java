@@ -15,7 +15,7 @@ public class PrimeNum {
              }
         }
 
-        if ( flag == true ) System.out.println("This is Prime Number!");
+        if ( flag ) System.out.println("This is Prime Number!");
         else System.out.println("This is not Prime");
     }
 }
